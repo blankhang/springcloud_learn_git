@@ -1,4 +1,4 @@
 com:
   blankhang:
-    config: I am the git configuration file from dev environment. i edit it 4 times.
-    defaultUser: dev user edit it 4 times.
+    config: I am the git configuration file from dev environment. i edit it 5 times.
+    defaultUser: dev user edit it 5 times.
